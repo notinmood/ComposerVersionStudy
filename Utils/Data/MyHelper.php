@@ -13,4 +13,8 @@ namespace Hiland\Utils\Data;
 class MyHelper
 {
     //我的第一个版本
+    //第二个版本
+    public static function getVersion(){
+        return "2";
+    }
 }
