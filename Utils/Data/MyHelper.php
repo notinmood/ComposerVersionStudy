@@ -18,8 +18,8 @@ class MyHelper
     //第1.2.2版本
     //第2.0.1版本
     //第3.0.0版本
-    //第3.1.2版本
+    //第3.2.2版本
     public static function getVersion(){
-        return "3.1.2";
+        return "3.2.2";
     }
 }
