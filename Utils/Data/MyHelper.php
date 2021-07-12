@@ -15,9 +15,8 @@ class MyHelper
     //我的第一个版本
     //第二个版本
     //第3个版本
+    //第1.2.1版本
     public static function getVersion(){
-        return "1.1.3";
+        return "1.2.1";
     }
-
-
 }
