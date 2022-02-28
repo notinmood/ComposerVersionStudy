@@ -1,6 +1,6 @@
 {
     "name": "hiland/composerversionstudy",
-    "description": "composer version study.",
+    "description": "这是一个对 composer 使用第三方类库版本类型的研究，请误删除。",
     "homepage": "http://www.hilandsoft.com/",
     "keywords": ["php","basic library","codecs"],
     "type": "library",
